@@ -15,28 +15,10 @@ In the dynamic world of financial markets, innovation knows no bounds. We're exc
 - **Revenue Redistribution**: A groundbreaking feature shares trading profits among token holders, fostering long-term engagement.
 - **Transparency and Fairness**: Operations and revenue distribution are governed by an immutable smart contract on a blockchain platform.
 - **Risk Mitigation**: Advanced risk management protocols ensure capital protection and responsible trading.
-- **Customizable Strategies**: Token holders can customize trading parameters to align with their individual goals.
 
-## Getting Started
-
-To get started with PHOTON, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/photon.git`
-2. Install the required dependencies: `npm install`
-3. Customize trading parameters in `config.js`
-4. Run the bot: `node bot.js`
 
 Please note that PHOTON operates in a dynamic financial landscape and involves risks. Conduct thorough research and seek professional advice before making investment decisions.
 
-## Contribution Guidelines
-
-We welcome contributions from the community to enhance PHOTON's capabilities. If you're interested in contributing, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m "Add your feature"`
-4. Push to your branch: `git push origin feature/your-feature`
-5. Open a pull request, describing your changes and improvements.
 
 ## Disclaimer
 
